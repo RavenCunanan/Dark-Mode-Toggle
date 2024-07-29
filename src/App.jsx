@@ -1,7 +1,7 @@
 import React, { useState, createContext } from "react";
 import ThemeSwitcher from "./ThemeSwitcher.jsx";
 import Home from "./Home.jsx";
-import "./styles.css"; // Importing the CSS file
+import "./styles.css"; 
 
 // Create a ThemeContext here 💖
 export const ThemeContext = createContext();
